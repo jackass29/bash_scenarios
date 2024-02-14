@@ -13,6 +13,6 @@ pip install apache-airflow
 # pip install s3fs 
 
 # final command
-airflow_standalone
+airflow standalone
 
 
